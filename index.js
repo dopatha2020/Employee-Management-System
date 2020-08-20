@@ -1,4 +1,5 @@
-var inquirer = require("inquirer");
+const inquirer = require("inquirer");
+const dotenv = require("dotenv")
 
 require("console.table");
 require('dotenv').config()
